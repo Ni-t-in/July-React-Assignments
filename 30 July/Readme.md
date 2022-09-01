@@ -1,5 +1,4 @@
 # Assignment
-
  -Create a new repository (in your machine)
  -Add a file named hello.txt
  -Add content, "Hi, I am ..."
